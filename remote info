@@ -1,0 +1,23 @@
+Remote Address:174.129.230.199:80
+Request URL:http://backbonejs-beginner.herokuapp.com/users
+Request Method:GET
+Status Code:200 OK
+Request Headersview source
+Accept:application/json, text/javascript, */*; q=0.01
+Accept-Encoding:gzip,deflate,sdch
+Accept-Language:en-US,en;q=0.8
+Connection:keep-alive
+Host:backbonejs-beginner.herokuapp.com
+Origin:http://backbonetutorials.com
+Referer:http://backbonetutorials.com/videos/beginner/
+User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1827.0 Safari/537.36
+X-Requested-With:XMLHttpRequest
+Response Headersview source
+Access-Control-Allow-Headers:X-Requested-With, X-HTTP-Method-Override, Content-Type, Accep
+Access-Control-Allow-Methods:POST, GET, PUT, DELETE, OPTIONS
+Access-Control-Allow-Origin:*
+Connection:keep-alive
+Content-Length:219
+Content-Type:application/json
+Date:Mon, 10 Feb 2014 18:21:36 GMT
+X-Powered-By:Express
